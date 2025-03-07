@@ -1,21 +1,26 @@
 name: Generate Snake Animation
 
 on:
-  push
+  push:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente
+    - cron: "0 0 * * *"
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v3
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar animação da cobra
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2
+
+      - name: Publicar no branch output
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
