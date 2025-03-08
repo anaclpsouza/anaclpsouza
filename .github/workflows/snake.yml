@@ -6,23 +6,19 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  generate:
+  deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-      - name: Gerar animação da cobra
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
+    - name: Set up Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Publicar no branch output
-        uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Deploy to GitHub Pages
+      uses: crazy-max/ghaction-github-pages@v2
+      with:
+        github_token: ${{ secrets.GH_TOKEN }}  # Usando o token PAT
