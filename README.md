@@ -1,4 +1,4 @@
-# ⌨ - Ana Clara Souza
+# ⌨ - Ａｎａ　Ｃｌａｒａ　Ｓｏｕｚａ
 ### Desenvolvedora de Software | Atualmente trabalhando com C# e NET
 <br>
 
