@@ -2,7 +2,6 @@
 ### Desenvolvedora de Software | Atualmente trabalhando com C# e NET
 <br>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif"  />
 
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/anaclarasz)
 - 👩‍🎓 Estudante do 6° período de Sistemas de Informação no IF Sudeste MG
@@ -40,8 +39,11 @@
 
 ## 
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anaclpsouza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Linguagens%20mais%20utilizadas" height="150" alt="languages graph"  />
+
+  
+<img height="150" src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif"  />
 </div>
 
 ---
