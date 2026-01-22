@@ -4,7 +4,7 @@
 
 
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/anaclarasz)
-- 👩‍🎓 Estudante do 6° período de Sistemas de Informação no IF Sudeste MG
+- 👩‍🎓 Estudante do 7° período de Sistemas de Informação no IF Sudeste MG
 - 💻 Atualmente desenvolvedora back-end C# e trabalhando na automação de processos fiscais. Utilizo o .NET Framework para construir e manter sistemas que integram a biblioteca DFe.NET da Zeus Automação, permitindo a geração, transmissão e gerenciamento de documentos fiscais eletrônicos, como Nota Fiscal Eletrônica (NF-e), em conformidade com as exigências da SEFAZ.
 
 <br clear="both">
