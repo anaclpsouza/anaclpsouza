@@ -5,7 +5,7 @@
 
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/anaclarasz)
 - 👩‍🎓 Estudante do 7° período de Sistemas de Informação no IF Sudeste MG
-- 💻 Atualmente desenvolvedora back-end C# e trabalhando na automação de processos fiscais. Utilizo o .NET Framework para construir e manter sistemas que integram a biblioteca DFe.NET da Zeus Automação, permitindo a geração, transmissão e gerenciamento de documentos fiscais eletrônicos, como Nota Fiscal Eletrônica (NF-e), em conformidade com as exigências da SEFAZ.
+- 💻 Desenvolvedora back-end C# e trabalhando na automação de processos fiscais. Utilizo o .NET Framework para construir e manter sistemas que integram a biblioteca DFe.NET da Zeus Automação, permitindo a geração, transmissão e gerenciamento de documentos fiscais eletrônicos, como Nota Fiscal Eletrônica (NF-e), em conformidade com as exigências da SEFAZ.
 
 <br clear="both">
 
@@ -38,23 +38,8 @@
 ---
 
 ## 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anaclpsouza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Linguagens%20mais%20utilizadas" height="150" alt="languages graph"  />
-
   
 <img height="150" src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif"  />
 </div>
 
----
 
-## 📫 Conecte-se comigo
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/anaclarasz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:anaclarasz.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
