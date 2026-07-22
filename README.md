@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá! 👋 Eu sou a Ana Clara </h1>
-  <h3>Desenvolvedora de Software</h3>
+  <h1>Olá! 👋 Eu sou a Ana </h1>
+  <h3>Desenvolvedora e Pesquisadora</h3>
   
   <a href="https://www.linkedin.com/in/anaclarasz" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -10,7 +10,7 @@
 <br>
 
 ## 👩‍💻 Sobre mim
-Atualmente sou estudante de Sistemas de Informação no IF Sudeste MG e estou no 7° período, desesnvolvendo meu TCC em C++ focado em pesquisa operacional! Trabalhei 1 ano como desenvolvedora back-end C# atuando na automação de processos fiscais.
+Atualmente sou estudante de Sistemas de Informação no IF Sudeste MG e estou no 8° período, desesnvolvendo meu TCC em C++ focado em pesquisa operacional! Trabalhei 1 ano como desenvolvedora back-end C# atuando na automação de processos fiscais.
 <br>
 
 ## 🛠️ Habilidades & Ferramentas
