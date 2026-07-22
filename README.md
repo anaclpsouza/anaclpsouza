@@ -10,7 +10,7 @@
 <br>
 
 ## 👩‍💻 Sobre mim
-Atualmente sou estudante de Sistemas de Informação no IF Sudeste MG e estou no 8° período, desesnvolvendo meu TCC em C++ focado em pesquisa operacional! Trabalhei 1 ano como desenvolvedora back-end C# atuando na automação de processos fiscais.
+Sou estudante de Sistemas de Informação no IF Sudeste MG do 8° período, em processo de dedsenvolvimento do meu TCC em pesquisa operacional com foco em otimização utilizando C++! Trabalhei 1 ano como desenvolvedora back-end C# atuando na automação de processos fiscais e atualmente sou estagiária de desenvolvimento na PD Case Informática.
 <br>
 
 ## 🛠️ Habilidades & Ferramentas
