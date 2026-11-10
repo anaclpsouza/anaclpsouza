@@ -16,7 +16,7 @@ Sou estudante de Sistemas de Informação no IF Sudeste MG do 8° período, em p
 ## 🛠️ Habilidades & Ferramentas
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,laravel,php,nodejs,js,ts,html,css,mysql,mongodb,aws" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,laravel,php,nodejs,js,ts,html,css,figma,mysql,mongodb,aws" />
   </a>
 </div>
 
